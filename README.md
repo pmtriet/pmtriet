@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @pmtriet</h1>
 <h3 align="center">An intern frontend developer from Danang</h3>
 
-<img align="right" width= "400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/media/7ffbc597d322d39017f3f2696b8def6e.gif" alt="pmtriet" />
+<img align="right" width= "400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mnotc6thm4arw0gn18q1v4922cn7ervaq15h8xtp&rid=giphy.gif&ct=g" alt="pmtriet" />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently studying at **DUT**
