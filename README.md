@@ -1,4 +1,4 @@
-![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/263a75529a1752b75d64f9f21fd07c92-3-2.jpg)
+
 <h1 align="center">Hi 👋, I'm @pmtriet</h1>
 <h3 align="center">An IT student from Danang</h3>
 
