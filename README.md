@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **DUT**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift, Dart**
 
 - 👯 I’m looking to collaborate with **other developers**
 
